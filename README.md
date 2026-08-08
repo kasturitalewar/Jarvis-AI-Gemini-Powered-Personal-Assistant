@@ -3,6 +3,10 @@
 ### Gemini-Powered Personal AI Assistant
 A Python-based AI chatbot that uses the Google Gemini API to understand user queries and generate intelligent, conversational responses through a simple and user-friendly interface.
 
+## 🌐 Live Demo
+
+[Try Jarvis AI Chatbot](https://jarvis-ai-gemini-powered-personal-assistant-5iojfguruuwtrbo3vn.streamlit.app/)
+
 ## ⚙️ Features
 * AI-powered conversational responses
 * Google Gemini API integration
